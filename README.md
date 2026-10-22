@@ -70,9 +70,3 @@ tako ls                                         # list the tasks
 tako mcp install --client claude-code           # let Claude Code use TakoDown through MCP
 tako skill install --agent codex                # install the Skill for Codex
 ```
-
-## About this repository
-
-This repository publishes TakoDown's installers: every release of the app is uploaded here as well as to [takodown.com](https://takodown.com), so you can download it from GitHub too.
-
-Website: **[takodown.com](https://takodown.com)**
