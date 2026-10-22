@@ -52,26 +52,6 @@ On Linux you can also install it with one command:
 (curl -fsSL https://dl.takodown.com/updates/install.sh || wget -qO- https://dl.takodown.com/updates/install.sh) | sh
 ```
 
-## Screenshots
-
-**Video downloads** — pick the quality and the subtitles, then press Return.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/video-dark.webp">
-  <img src="assets/screenshots/video-light.webp" width="640" alt="Choosing the quality and subtitles of a video">
-</picture>
-
-**Batch add** — paste any text; TakoDown finds the links and sorts them by how they download.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/batch-dark.webp">
-  <img src="assets/screenshots/batch-light.webp" width="640" alt="Links found in pasted text, grouped into direct downloads, YouTube videos and magnet links">
-</picture>
-
-**Browser extension** — your downloads, one click away in the toolbar.
-
-<img src="assets/screenshots/extension.webp" alt="The TakoDown browser extension's popup">
-
 ## Browser extension
 
 Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/takodown/lpaplddpgaaefejdlbbniiakgmblmain) (also for Edge, Brave, Arc, Vivaldi and other Chromium browsers) or [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/takodown/). It works together with the desktop app:
